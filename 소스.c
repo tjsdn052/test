@@ -5,6 +5,7 @@ void print_binary_reverse(int x);
 
 int main(void)
 {
+	int k=0;
 	int x = 0;
 	printf("Enter a number: ");
 	scanf_s("%d", &x);
